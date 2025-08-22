@@ -13,3 +13,4 @@ A benefit of cybersecurity is it has a good pay rate.
 In this lesson we'll be learning about protecting data, key concepts, and the history and evolution of malware and data breaches. More as well but that's just a couple things I'm interested in. I think the skills I'll learn in this class will be very important, especially in the future. Since technology's everywhere, it's important to know how to stay safe online. 
 
 
+
