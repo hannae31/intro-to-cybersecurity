@@ -20,4 +20,13 @@
 ### Vocabulary
 > Include the vocabulary word(s) from this lesson with a defintion
 
-...
+Authentication, prove who you are
+Prove who you are so that you are given access.
+
+Access Control, what you are allowed to see or get to
+
+Accounting, keep track of what you've done and what has happened
+
+Password Attacks: 
+Steal the password
+Guess the password 
