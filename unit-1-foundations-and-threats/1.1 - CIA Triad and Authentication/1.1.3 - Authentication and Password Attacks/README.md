@@ -21,4 +21,5 @@ Dictionary brute force tries to access one account by trying lots of different p
 ### Vocabulary
 > Include the vocabulary word(s) from this lesson with a defintion
 
-...
+Credentials: username + password pair used for authentication
+Credential Stuffing: Trying usernames/password from a breach in order to gain access to user accounts.
