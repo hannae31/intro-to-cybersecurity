@@ -10,7 +10,8 @@
 ### Lecture Notes
 > From the course notes reviewed in class, take note on the material from this lesson as it relates to the Lesson Objectives and Guiding Question(s):
 
-...
+What  is a database? A database is any collection of data, or information, that is specifically organized for rapid search and retrieval by a computer. 
+Dictionary brute force tries to access one account by trying lots of different passwords. Password spraying uses one password and tries it on lots of accounts. 
 
 ### Application / Personal Research / Summary
 > In your own words, write a summary of this lesson and connect it to yourself and the real-world. If needbe, do a rapid research on the topic to help with you summary
