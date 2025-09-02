@@ -21,4 +21,14 @@ security threat.
 ### Vocabulary
 > Include the vocabulary word(s) from this lesson with a defintion
 
-...
+Virus: A program that attatches to a host file with the goal of installing itself on a system. 
+
+Worm: A program that reproduces itself and can transport from system to system without attatching to a file.
+A worm resides in active memory and keeps replicating itself. When a worm replicates enough to consume massive system resources, the device operating system will slow down or even crash. 
+
+Trojan: Files that appear to be legitamite programs, but really contain malicious code. 
+
+RAT: Remote access Trojan, Trojan that installs a backdoorfor administrative control over the victim PC. 
+
+Backdoor: Programs that create a mechanism for gaining access to aa computer. 
+
